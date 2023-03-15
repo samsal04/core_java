@@ -19,28 +19,36 @@ public class IntersectionArrays350 {
 
     private static int[] intersction(int[] nums1, int[] nums2) {
 
+        int count=0;
+        int[] array1= new int[Math.max(nums1.length,nums2.length)];
+        int[] array2= new int[Math.min(nums1.length,nums2.length)];
 
-        List<Integer> list1=new ArrayList<>();
+        if(nums1.length>=nums2.length){
+            array1=nums1;
+            array2=nums2;
+        }else {
+            array1=nums2;
+            array2=nums1;
+        }
 
-        for(int i=0;i<nums1.length;i++){
+        Arrays.sort(array1);
+        Arrays.sort(array2);
 
-            for(int j=0;j<nums2.length;j++){
+        List<Integer> list= new ArrayList<>();
+        for(int i=0;i<array1.length && count<array2.length;i++){
 
-                if (nums1[i]==nums2[j]){
-                    list1.add(nums1[i]);
-                }else{
-                    continue;
-                }
-
+            if(array1[i]==array2[count]){
+                list.add(array1[i]);
+                count++;
             }
         }
-        return list1.stream().mapToInt(Integer::intValue).toArray();
-
+        System.out.println(list);
+        return list.stream().mapToInt(Integer::intValue).toArray();
     }
     public static void main(String[] args) {
-        int[] nums1= {1,2,2,1};
-        int[] nums2= {2,2};
-        
+        int[] nums1= {4,9,5};
+        int[] nums2= {9,4,9,8,4};
+
         System.out.println(Arrays.toString(intersction(nums1,nums2)));
     }
 

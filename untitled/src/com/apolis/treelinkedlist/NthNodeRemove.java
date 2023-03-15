@@ -2,6 +2,7 @@ package com.apolis.treelinkedlist;
 
 //Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
+//1 2 3 4 5    2
 public class NthNodeRemove {
     public static void main(String[] args) {
 
@@ -12,6 +13,9 @@ public class NthNodeRemove {
         head.val=3;
         head.val=4;
         head.val=5;
+
+
+
         System.out.println(head.toString());
         int count =0;
         int n=5;

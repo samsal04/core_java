@@ -20,60 +20,76 @@ import java.util.Arrays;
 public class BestTimeToBuySell {
     private static int maxProfit(int[] prices) {
 
-        int leastIndex=findMin(prices);
-//        System.out.println(leastIndex);
-        int maxIndex=findMax(prices);
-//        System.out.println(maxIndex);
-
-
-
-        if(leastIndex<maxIndex){
-            return prices[maxIndex]-prices[leastIndex];
-
-        }
-        else if(leastIndex>maxIndex){
-           int[] leastPriceArray=new int[leastIndex+1];
-            leastPriceArray=Arrays.copyOfRange(prices,leastIndex,prices.length-1);
-//            System.out.println(Arrays.toString(leastPriceArray));
-            maxIndex=findMax(leastPriceArray);
-
-            return leastPriceArray[maxIndex]-leastPriceArray[0];
-        }
-
-        return 0;
-    }
-
-    private static int findMax(int[] prices) {
-        int index=0;
-        int maxPrice=prices[0];
-        for (int i=0;i<prices.length;i++){
-            if (prices[i]>maxPrice){
-                index=i;
-                maxPrice=prices[i];
-//                System.out.println(maxPrice);
+//        int leastIndex=findMin(prices);
+////        System.out.println(leastIndex);
+//        int maxIndex=findMax(prices);
+////        System.out.println(maxIndex);
 //
-//                System.out.println(index);
+//
+//
+//        if(leastIndex<maxIndex){
+//            return prices[maxIndex]-prices[leastIndex];
+//
+//        }
+//        else if(leastIndex>maxIndex){
+//           int[] leastPriceArray=new int[leastIndex+1];
+//            leastPriceArray=Arrays.copyOfRange(prices,leastIndex,prices.length-1);
+////            System.out.println(Arrays.toString(leastPriceArray));
+//            maxIndex=findMax(leastPriceArray);
+//
+//            return leastPriceArray[maxIndex]-leastPriceArray[0];
+//        }
+//
+//        return 0;
+
+        int res = 0;
+        if(prices == null || prices.length <=1 )return res;
+
+
+        int min = prices[0];
+        for(int i=1; i< prices.length; i++){
+            if(prices[i] > min){
+                res = Math.max(res, prices[i] - min);
+            }else{
+                min = prices[i];
             }
         }
-//        System.out.println(index);
-        return index;
+
+        return res;
+
     }
 
-    private static int findMin(int[] prices) {
-    int index=0;
-    int minPrice=0;
-    for (int i=0;i<prices.length;i++){
-        if (prices[i]<minPrice){
-            index=i;
-            minPrice=prices[i];
-            System.out.println("we reaching here? :"+minPrice);
+//    private static int findMax(int[] prices) {
+//        int index=0;
+//        int maxPrice=prices[0];
+//        for (int i=0;i<prices.length;i++){
+//            if (prices[i]>maxPrice){
+//                index=i;
+//                maxPrice=prices[i];
+////                System.out.println(maxPrice);
+////
+////                System.out.println(index);
+//            }
+//        }
+////        System.out.println(index);
+//        return index;
+//    }
 
-        }
-    }
-//        System.out.println(minPrice);
-   //     System.out.println(index);
-    return index;
-    }
+//    private static int findMin(int[] prices) {
+//    int index=0;
+//    int minPrice=0;
+//    for (int i=0;i<prices.length;i++){
+//        if (prices[i]<minPrice){
+//            index=i;
+//            minPrice=prices[i];
+//            System.out.println("we reaching here? :"+minPrice);
+//
+//        }
+//    }
+////        System.out.println(minPrice);
+//   //     System.out.println(index);
+//    return index;
+//    }
 
     public static void main(String[] args) {
         int[] prices={7,1,5,3,6,4};
