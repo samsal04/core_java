@@ -22,7 +22,7 @@ package com.apolis.javapractice;
 //        - Pay 1 and climb two steps to reach index 9.
 //        - Pay 1 and climb one step to reach the top.
 //        The total cost is 6.
-
+//   optimise
 
 public class CostOfClimbing {
     private static int cost(int[] array){
