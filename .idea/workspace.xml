@@ -4,39 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7285af32-1a4c-4377-bf10-7f837b3353cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/BestTimeToBuySell.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/BestTimeToBuySell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/ConvertBinaryToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/ConvertBinaryToNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/FirstBadVersion278.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/FirstBadVersion278.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/IntersectionArrays350.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/IntersectionArrays350.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/PrintPatternGFG1.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/PrintPatternGFG1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/PrinterErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/PrinterErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/RotateArray189.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/RotateArray189.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/SmallestSubGreaterThanN.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/SmallestSubGreaterThanN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/SquareConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/SquareConcat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/SquareSumFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/SquareSumFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/multidimensional/FloodFill733.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/multidimensional/FloodFill733.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/multidimensional/ReshapeMatrix566.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/multidimensional/ReshapeMatrix566.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/FeastOfBeast.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/FeastOfBeast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/LongestSub3.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/LongestSub3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/MergeSortedArray88.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/MergeSortedArray88.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/MoveZeros283.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/MoveZeros283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/PersonalisedMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/PersonalisedMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/ReverseString344.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/ReverseString344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/ReverseWordInString557.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/ReverseWordInString557.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/SumOfPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/SumOfPositive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/SumWithoutHighLow.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/SumWithoutHighLow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/TwoSum167.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/practicecodes/TwoSum167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/stringmanipulation/DnaToRna.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/stringmanipulation/DnaToRna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/stringmanipulation/LongestCommonSub1143.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/stringmanipulation/LongestCommonSub1143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/stringmanipulation/ZigzagConversion6.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/stringmanipulation/ZigzagConversion6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/treelinkedlist/NthNodeRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/treelinkedlist/NthNodeRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+    <list default="true" id="7285af32-1a4c-4377-bf10-7f837b3353cf" name="Changes" comment="&quot; core java coding practice&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/com/apolis/javapractice/CostOfClimbing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/com/apolis/javapractice/CostOfClimbing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/CostOfClimbing.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/apolis/javapractice/CostOfClimbing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">
@@ -68,44 +44,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Sam/Documents/microservices_project/mindex-java-code-challenge",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sam/Documents/microservices_project/spring-batch-demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TwoSum1n3">
-    <configuration name="LongestSubWithZeroSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.apolis.enjoyalgorithm.LongestSubWithZeroSum" />
+}</component>
+  <component name="RunManager" selected="Application.NoOfDevisibility">
+    <configuration name="NoOfDevisibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.apolis.codesignal.NoOfDevisibility" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.apolis.enjoyalgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxContinuous1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.apolis.enjoyalgorithm.MaxContinuous1" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apolis.enjoyalgorithm.*" />
+          <option name="PATTERN" value="com.apolis.codesignal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,6 +82,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.apolis.repeated.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrefixPalindromeSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.apolis.codesignal.PrefixPalindromeSplit" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apolis.codesignal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSum1n3" />
+        <item itemvalue="Application.NoOfDevisibility" />
+        <item itemvalue="Application.PrefixPalindromeSplit" />
         <item itemvalue="Application.ValidAnagram242" />
+        <item itemvalue="Application.TwoSum1n3" />
         <item itemvalue="Application.PivotIndex724" />
-        <item itemvalue="Application.LongestSubWithZeroSum" />
-        <item itemvalue="Application.MaxContinuous1" />
       </list>
     </recent_temporary>
   </component>
@@ -244,11 +220,29 @@
       <workItem from="1678332284424" duration="1531000" />
       <workItem from="1678390692572" duration="156000" />
       <workItem from="1678462466280" duration="833000" />
+      <workItem from="1678925146634" duration="326000" />
+      <workItem from="1678926022418" duration="3299000" />
+      <workItem from="1679369765202" duration="780000" />
+      <workItem from="1679504063116" duration="34000" />
+      <workItem from="1679598278416" duration="27000" />
+      <workItem from="1679925878252" duration="10636000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot; core java coding practice&quot;">
+      <created>1678925351869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678925351869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot; core java coding practice&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot; core java coding practice&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,6 +721,26 @@
           <url>file://$PROJECT_DIR$/untitled/src/com/apolis/repeated/PivotIndex724.java</url>
           <line>52</line>
           <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/com/apolis/codesignal/NoOfDevisibility.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/com/apolis/codesignal/NoOfDevisibility.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/com/apolis/codesignal/NoOfDevisibility.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/com/apolis/codesignal/NoOfDevisibility.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="152" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
