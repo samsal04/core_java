@@ -41,8 +41,8 @@ public class CostOfClimbing {
     public static void main(String[] args) {
         int[] array={1,100,1,1,1,100,1,1,100,1};
         int[] array1={10,15,20};
-        System.out.println(cost(array));
-        System.out.println(cost(array1));
+//        System.out.println(cost(array));
+//        System.out.println(cost(array1));
     }
 }
 //    public static int calculateMinJumps(int flagHeight, int maxJump) {
