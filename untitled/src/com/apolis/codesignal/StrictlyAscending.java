@@ -22,22 +22,38 @@ import java.util.Arrays;
 
 public class StrictlyAscending {
     private static boolean checkSequence(int[] sequence) {
-        boolean flag= false;
+//        boolean flag= false;
 //        Arrays.sort(sequence);
-        int count= sequence[0];
-        System.out.println(Arrays.toString(sequence)+ "   "+ count);
-
-        for (int i=0;i< sequence.length;i++){
-            if(!flag && count!= sequence[i]){
-                flag=true;
-                continue;
+//        int count= sequence[0];
+//        System.out.println(Arrays.toString(sequence)+ "   "+ count);
+//
+//        for (int i=0;i< sequence.length;i++){
+//            if(!flag && count!= sequence[i]){
+//                flag=true;
+//                continue;
+//            }
+//            else if(!flag && count!= sequence[i] ){
+//                return false;
+//            }
+//
+//        }
+//
+//        return true;
+//    }
+        boolean removed = false;
+        for (int i = 1; i < sequence.length; i++) {
+            if (sequence[i] <= sequence[i-1]) {
+                if (removed) {
+                    return false;
+                }
+                if (i == 1 || sequence[i] > sequence[i-2]) {
+                    sequence[i-1] = sequence[i];
+                } else {
+                    sequence[i] = sequence[i-1];
+                }
+                removed = true;
             }
-            else if(!flag && count!= sequence[i] ){
-                return false;
-            }
-
         }
-
         return true;
     }
     public static void main(String[] args) {
